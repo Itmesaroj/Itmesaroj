@@ -3,18 +3,18 @@
 
  #### 👨‍💻ABOUT ME:
 <h4 align="center">
-I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms 💡..</h4>
+I'm a full-stack web developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms 💡..</h4>
 <br/>
 
 - ⭐ Currently learning TypeScript, GraphQl
  
-- 🌍  I hail from Aurangabad, Maharashtra.
+- 🌍  I hail from Ajmer, Rajasthan.
 
-- 🔥  Visit my [Portfolio](https://saurav9284.github.io) for more details.
+- 🔥  Visit my [Portfolio] for more details.
 
-- ✉️  You can contact me at [saurav178chavan@gmail.comm](mailto:saurav178chavan@gmail.com)
+- ✉️  You can contact me at [itsmesaroj007@gmail.com](mailto:itsmesaroj007@gmail.com)
 
-- ⭐ My latest project [Myntra.com](https://saurav01myntraa.netlify.app/) selected in Top      Project in Masai School
+- ⭐ My latest project [Croma.com](https://cromas.netlify.app) selected in Top      Project in Masai School
 <br />
 <hr>
 
