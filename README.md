@@ -1,16 +1,22 @@
-<h1 align="center">Hi 👋, I'm Saroj Choudhary</h1>[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ffff&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+👨🏻‍💻;1500%2B+Hours+of+Coding+Experience+⚡️;700%2B+DSA+Questions+Solved+💡)</div>](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Saroj Choudhary</h1>
+
+
+ #### 👨‍💻ABOUT ME:
+<h4 align="center">
+I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms 💡..</h4>
+<br/>
+
+- ⭐ Currently learning TypeScript, GraphQl
+ 
+- 🌍  I hail from Aurangabad, Maharashtra.
+
+- 🔥  Visit my [Portfolio](https://saurav9284.github.io) for more details.
+
+- ✉️  You can contact me at [saurav178chavan@gmail.comm](mailto:saurav178chavan@gmail.com)
+
+- ⭐ My latest project [Myntra.com](https://saurav01myntraa.netlify.app/) selected in Top      Project in Masai School
+<br />
 <hr>
-
-
-<h2 align="center">About Me</h2>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-<p align="center">
- Hello! My name is Saroj Choudhary & I enjoy creating things that live on the internet. I'm a passionate Developer, with strong administrative &, good attention to detail & the ability to write efficient code. I specialize in crafting pixel-perfect designs and implementing responsive layouts to deliver seamless and visually appealing websites.
-</p>
-  <h4 align="center">"I am not what happened to me, I am what I choose to become."🌟</h4>
-</div>
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
