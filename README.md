@@ -79,5 +79,5 @@ I'm a full-stack web developer skilled in MERN stack. My passion for software li
  <br/>
 <p align="center">
 <a href="https://github.com/itmesaroj"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsmesaroj&theme=dracula" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itmesaroj&theme=dracula" />
 </span></a> </p>
