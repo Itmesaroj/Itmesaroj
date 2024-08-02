@@ -59,7 +59,7 @@ I'm a full-stack web developer skilled in MERN stack. My passion for software li
 
 <p align="left">
   
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/saroj-choudhary-0021682a9/" target="https://www.linkedin.com/in/saurav-chavan/">
+  <a href="https://www.linkedin.com/in/saroj-choudhary-0021682a9/" target="https://www.linkedin.com/in/saurav-chavan/">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="" />
   </a>
 </p>
