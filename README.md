@@ -18,6 +18,16 @@ I'm a full-stack web developer skilled in MERN stack. My passion for software li
 <br />
 <hr>
 
+
+#### What do I do? <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></h3>
+
+<h4>✅ I aspire to work as a programmer.</h4>
+
+<h4>✅ I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.</h4>
+
+<h4>✅ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.</h4>
+
+<hr>
 <h2 align="center">Skills</h2>
 
 <p align="center">
@@ -39,9 +49,20 @@ I'm a full-stack web developer skilled in MERN stack. My passion for software li
 
 </p>
 
-<h3 align="left">Connect with me:</h3>
+
+
+
+
+ #### 👨‍💻CONNECT WITH ME:
+
+<!--- ![Portfolio](https://github.com/Saurav9284/Unite-6-Project-Gem-Garden/assets/135011685/2cebc2f4-07ac-40f9-b845-10f5322c32d5) --->
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saroj-choudhary-0021682a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saroj-choudhary-0021682a9/" height="30" width="40" /></a>
+  
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/saroj-choudhary-0021682a9/" target="https://www.linkedin.com/in/saurav-chavan/">
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="" />
+  </a>
 </p>
+
 
 
