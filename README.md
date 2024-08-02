@@ -64,5 +64,17 @@ I'm a full-stack web developer skilled in MERN stack. My passion for software li
   </a>
 </p>
 
+ <p align="center" >
+<img src="http://github-readme-streak-stats.herokuapp.com?user=itmesaroj&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
+</p>
+<p>
+<a href="https://github.com/sujalsahu620"><span>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itmesaroj&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=itmesaroj&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
+</span></a> </p>
 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<hr clear="both">
+ <br/>
+ <br/>
 
