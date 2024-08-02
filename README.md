@@ -43,10 +43,5 @@ I'm a full-stack web developer skilled in MERN stack. My passion for software li
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saroj-choudhary-0021682a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saroj-choudhary-0021682a9/" height="30" width="40" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itmesaroj&show_icons=true&locale=en&layout=compact" alt="itmesaroj" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itmesaroj&show_icons=true&locale=en" alt="itmesaroj" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itmesaroj&" alt="itmesaroj" /></p>
 
 
