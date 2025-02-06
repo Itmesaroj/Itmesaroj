@@ -10,7 +10,7 @@ I'm a full-stack web developer skilled in MERN stack. My passion for software li
  
 - 🌍  I hail from Ajmer, Rajasthan.
 
-- 🔥  Visit my [https://port4321.netlify.app/] for more details.
+- 🔥  Visit my portfolio [https://port4321.netlify.app/] for more details.
 
 - ✉️  You can contact me at [itsmesaroj007@gmail.com](mailto:itsmesaroj007@gmail.com)
 
